@@ -1,7 +1,6 @@
 # 2022-01-04-python
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chendaniely/2022-01-04-python/main)
-
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/chendaniely/2022-01-04-python/main) <- Click me
 Install Python using Anaconda: https://www.anaconda.com/distribution/
 
 We will be using the Jupyter Notebook (via jupyter lab) which is pre-installed with the Anaconda distribution
